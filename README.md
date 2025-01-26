@@ -9,7 +9,8 @@ Welcome to the **EdTech Recorded Lectures Analysis** project! This project dives
 
 The company has collected data from various EdTech websites and the analysis will focus on **category-wise insights**, enabling the startup to strategically develop their offerings, improve course content, and maximize viewer engagement. 
 
-![Power BI Dashboard](EdTech Recorded Lectures Analysis(Power BI).png "Power BI Dashboard Overview")
+![Power BI Dashboard](EdTech-Recorded-Lectures-Analysis
+/EdTech Recorded Lectures Analysis(Power BI).png "Power BI Dashboard Overview")
 
 
 ---
