@@ -9,7 +9,7 @@ Welcome to the **EdTech Recorded Lectures Analysis** project! This project dives
 
 The company has collected data from various EdTech websites and the analysis will focus on **category-wise insights**, enabling the startup to strategically develop their offerings, improve course content, and maximize viewer engagement. 
 
-[EdTech Recorded Lectures Analysis]([https://github.com/username/EdTech-Recorded-Lectures-Analysis/raw/main/EdTech%20Recorded%20Lectures%20Analysis.pdf](https://github.com/AnkushSaini22/EdTech-Recorded-Lectures-Analysis/blob/main/EdTech%20Recorded%20Lectures%20Analysis.pdf))
+
 
 
 
